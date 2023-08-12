@@ -59,3 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - The Meal DB API (https://www.themealdb.com
+
+### 'Live Hosting Link'
+https://64d7ca00faf319269d5eed9e--spectacular-gecko-f715bb.netlify.app/
