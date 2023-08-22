@@ -44,13 +44,9 @@ These instructions will get you a copy of the project up and running on your loc
 - JavaScript
 - React.js
 
-## Demo
 
-Check out the live demo of the application at : [https://contact-list-coding-ninja.vercel.app/](https://contact-list-coding-ninja.vercel.app/)
 
-## Authors
 
-- [https://github.com/rahul2870](https://github.com/rahul2870)
 
 ## License
 
@@ -61,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - The Meal DB API (https://www.themealdb.com
 
 ### 'Live Hosting Link'
-https://64d7ca00faf319269d5eed9e--spectacular-gecko-f715bb.netlify.app/
+https://moonlit-meringue-e0116b.netlify.app/
